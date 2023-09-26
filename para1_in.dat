@@ -1,0 +1,9 @@
+1.0d0      !Ao
+0.0d0      !Co
+1.0d0      !lambda
+0.06d0     !beta
+0.45d0     !gamm
+1.0d0      !eta
+5.0d5     !totT
+1.0d-4     !dt
+
